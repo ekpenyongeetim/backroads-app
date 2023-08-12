@@ -40,7 +40,7 @@ export const services = [
   {
     id: 4,
     icon: "	fas fa-hat-cowboy-side",
-    title: "Awesome experience",
+    title: "Awesome experience with us",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.Asperiores, officia.",
   },
 ];
